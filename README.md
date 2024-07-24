@@ -11,11 +11,10 @@
 
 
 
-![YouTrack](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/YouTrack_icon.svg/1200px-YouTrack_icon.svg.png)
 ![Python](https://www.svgrepo.com/show/376344/python.svg)
 ![VSC](https://static-00.iconduck.com/assets.00/visual-studio-code-icon-1024x1014-0zgsdxrt.png)
 ![Postman](https://github.com/user-attachments/assets/002d04f9-89cc-485c-9be7-0356fe3b9d81)
 ![Jira](https://github.com/user-attachments/assets/68d39317-76c5-40a2-b561-d8cd09abe5f1)
-![Postman](https://github.com/user-attachments/assets/c8d20819-5b29-4f41-bafb-d600a5c08afd)
 ![PyCharm](https://github.com/user-attachments/assets/20590b32-a98b-4b03-bbe2-3b94492abd4d)
-![youtrack 49x49](https://github.com/user-attachments/assets/425e70d4-607a-4dee-9235-0f202a7db128)
+![YouTrack](https://github.com/user-attachments/assets/d5d18c10-fe11-4353-96ff-2a146a48208e)
+![Postman](https://github.com/user-attachments/assets/4e5f2108-9649-4a8f-aedc-a7c1ca2ccd8b)
