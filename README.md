@@ -17,3 +17,4 @@
 ![Python](https://www.svgrepo.com/show/376344/python.svg)
 ![PyCharm](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png)
 ![VSC](https://static-00.iconduck.com/assets.00/visual-studio-code-icon-1024x1014-0zgsdxrt.png)
+![Postman](https://github.com/user-attachments/assets/002d04f9-89cc-485c-9be7-0356fe3b9d81)
