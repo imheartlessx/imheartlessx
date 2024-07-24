@@ -9,3 +9,5 @@
 
 ## Инструменты, которыми я владею:
 
+![image](https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png)
+
