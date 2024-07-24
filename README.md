@@ -17,5 +17,3 @@
 ![Python](https://www.svgrepo.com/show/376344/python.svg)
 ![PyCharm](https://intellij-support.jetbrains.com/hc/user_images/5l0fLOoDkFwpjU_ZKu7Ofg.png)
 ![VSC](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519)
-
-
