@@ -10,7 +10,7 @@
 Тестовая документация:
 * [Чек-лист](Чек-лист.xlsx)
 * [Тест-кейс](Тестовое.xlsx)
-* [Баг-репорты](https://imheartlessx.atlassian.net/issues/?jql=issueKey+in+%28KH44-1%2CKH44-2%2CKH44-3%2CKH44-4%2CKH44-5%29&atlOrigin=eyJpIjoiYTU5Mjk4M2RmNGU4NDM3YmFhYzllZTk5MWVkOTE2ZjkiLCJwIjoiaiJ9)
+* [Баг-репорты](Баг-репорты.zip)
 ## Инструменты, которыми я владею:
 
 
