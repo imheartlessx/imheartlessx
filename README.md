@@ -16,5 +16,4 @@
 ![Postman](https://github.com/user-attachments/assets/1f262973-af77-45b7-b33b-16c3e8505978)
 ![Python](https://www.svgrepo.com/show/376344/python.svg)
 ![PyCharm](https://intellij-support.jetbrains.com/hc/user_images/5l0fLOoDkFwpjU_ZKu7Ofg.png)
-![VSC](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png20210804221519)
-
+![VSC](https://static-00.iconduck.com/assets.00/visual-studio-code-icon-1024x1014-0zgsdxrt.png)
