@@ -15,5 +15,5 @@
 ![YouTrack](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/YouTrack_icon.svg/1200px-YouTrack_icon.svg.png)
 ![Postman](https://github.com/user-attachments/assets/1f262973-af77-45b7-b33b-16c3e8505978)
 ![Python](https://www.svgrepo.com/show/376344/python.svg)
-![PyCharm](https://intellij-support.jetbrains.com/hc/user_images/5l0fLOoDkFwpjU_ZKu7Ofg.png)
+![PyCharm](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png)
 ![VSC](https://static-00.iconduck.com/assets.00/visual-studio-code-icon-1024x1014-0zgsdxrt.png)
