@@ -18,3 +18,4 @@
 ![Jira](https://github.com/user-attachments/assets/68d39317-76c5-40a2-b561-d8cd09abe5f1)
 ![Postman](https://github.com/user-attachments/assets/c8d20819-5b29-4f41-bafb-d600a5c08afd)
 ![PyCharm](https://github.com/user-attachments/assets/20590b32-a98b-4b03-bbe2-3b94492abd4d)
+![youtrack 256x256](https://github.com/user-attachments/assets/425e70d4-607a-4dee-9235-0f202a7db128)
